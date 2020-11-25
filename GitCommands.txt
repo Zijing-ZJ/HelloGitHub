@@ -1,0 +1,4 @@
+git pull : git pull command is used to download the commits from a remote repository, which are not in your machine, and update the local repository.
+git push : when you make some changes, git pull command is used to add the local changes to a remote repository.
+git checkout -b NewBranch : create a new branch and switch to this new branch at the same time.
+git clone: git clone command is used to get a copy of an existing repository.
